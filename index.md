@@ -1,6 +1,7 @@
 ---
 title: Hem
 order: 1
+icon: fa-home
 ---
 
 
