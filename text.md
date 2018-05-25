@@ -1,3 +1,9 @@
+---
+title: Text
+order: 2
+icon: fa-font
+---
+
 # Text
 Alla formateringar på text du vill göra fungerar på samma sätt. Den text du vill modifiera klämmer du alltid in mellan två *taggar*. Den ena taggen öppnar, den andra stänger. Det ser alltså ut såhär:
 
