@@ -9,7 +9,7 @@ avatar: roi_white.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/roi-help" # the subpath of your site, e.g. /blog
-url: "https://scriptcoded.github.io/" # the base hostname & protocol for your site
+url: "https://scriptcoded.github.io" # the base hostname & protocol for your site
 
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
